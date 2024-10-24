@@ -1,0 +1,28 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #7899FF;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.menu {
+    display: flex;
+    height: 10rem;
+    background-color: #4FFF75;
+}
+
+.altura2 {
+    display: flex;
+    flex-direction: column;
+    height: 10rem;
+    background-color: #4FFF75;
+}
+
+.pasos {
+    flex-direction: column;
+    height: 20rem;
+    background-color: #BFEB4E;
+}
+
